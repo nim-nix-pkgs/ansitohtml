@@ -1,8 +1,0 @@
-0000000000000000000000000000000000000000 9e76dc6e6f9a9c04c7204cedcf222dfea1174e74 hugosenari <hugosenari@gmail.com> 1656278132 -0300	clone: from github.com:nim-nix-pkgs/ansitohtml.git
-9e76dc6e6f9a9c04c7204cedcf222dfea1174e74 7eeb6ee6cce28e789eaacf97272b5a014aa438d6 hugosenari <hugosenari@gmail.com> 1656301768 -0300	commit: feat(nimpkgs): remove lock
-7eeb6ee6cce28e789eaacf97272b5a014aa438d6 67374d261f1ce9cba92251aef82723d72f9287b8 hugosenari <hugosenari@gmail.com> 1656747520 -0300	commit: feat(nimpkgs): remove lock
-67374d261f1ce9cba92251aef82723d72f9287b8 11f65e337bc37d61282c9c335555a6161d9c1032 hugosenari <hugosenari@gmail.com> 1657153717 -0300	commit: feat(nimpkgs): remove lock
-11f65e337bc37d61282c9c335555a6161d9c1032 7d535a392b807d340fe58a4eb637cb7c1452c31d hugosenari <hugosenari@gmail.com> 1658018775 -0300	commit: feat(nimpkgs): remove lock
-7d535a392b807d340fe58a4eb637cb7c1452c31d f8dd8f50790d896dab8fb6fed90ae9b0ee7fb5ec hugosenari <hugosenari@gmail.com> 1658032680 -0300	commit: feat(nimpkgs): remove lock
-f8dd8f50790d896dab8fb6fed90ae9b0ee7fb5ec d83f8e51ed68d05087cf345d101444eab1adc0b4 hugosenari <hugosenari@gmail.com> 1658202580 -0300	commit: feat(nimpkgs): remove lock
-d83f8e51ed68d05087cf345d101444eab1adc0b4 db04785d0b6bec66aa215b9798b523d878505718 hugosenari <hugosenari@gmail.com> 1658207105 -0300	commit: feat(nimpkgs): remove lock
